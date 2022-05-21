@@ -18,5 +18,12 @@ tr:nth-child(even) 와 tr:nth-child(odd)을 사용해 짝수 번째 줄과 홀�
 
 ![image](https://user-images.githubusercontent.com/97486359/169641662-0428ba98-3574-411d-9166-6f3db78ee07b.png)
 
-일반적인 ul태그이고 css에서 ul의 배경색를 바꾸고 list-style-type을 이용 앞에 마커변경이 가능하다.
+일반적인 ul 태그이고 css에서 ul의 배경색을 바꾸고 list-style-type을 이용 앞에 마커 변경이 가능합니다.
 
+![image](https://user-images.githubusercontent.com/97486359/169642365-ed6b98d2-1eba-42a7-a5b8-5778cf452eca.png)
+
+div 태그에 onclick을 사용하여서 div 영역을 누르면 사이트로 이동이 가능합니다.
+
+![image](https://user-images.githubusercontent.com/97486359/169642552-11ba2f3f-3bdb-493c-910e-f4fd0ef8c92d.png)
+
+버튼 태그를 이용해 누르면 사이트가 이동되는 기능이다.
